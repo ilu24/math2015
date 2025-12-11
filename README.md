@@ -6,8 +6,8 @@ Run through the cells sequentially to see project workflow.
 
 #### Abstract
 This project investigates Principal Component Analysis (PCA) as a mathematical method
-for dimensionality reduction. We implement PCA from first principles using eigendecompo-
-sition of covariance and correlation matrices, and evaluate its performance on distinct data
+for dimensionality reduction. We implement PCA from first principles using eigendecomposition
+of covariance and correlation matrices, and evaluate its performance on distinct data
 modalities: the California Housing dataset (tabular numeric) and two image datasets (CIFAR-
 10 and LFW Faces). Our analysis demonstrates how PCA identifies orthogonal directions of
 maximum variance, enabling significant dimensionality reduction. For the image datasets, we
